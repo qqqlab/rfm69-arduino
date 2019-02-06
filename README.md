@@ -1,6 +1,8 @@
 # rfm69-arduino
 Arduino with RFM69 ISM radio running at 1.8V
 
+Designed to run from small indoor solar cells delivering a few micro Amperes current.
+
 ### Installation in the Arduino IDE
 
  - Start Arduino IDE 1.8.4 or later
