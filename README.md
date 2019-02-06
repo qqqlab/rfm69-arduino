@@ -15,3 +15,7 @@ https://qqqlab.github.io/rfm69-arduino/package_qqqlab_index.json
  - Type "qq", or scroll down the list to "qqqlab Board"
  - Click on the item to reveal the "Install" button and click Install.
  - Now you should have "qqqlab Board" under menu Tools->Boards
+
+![Alt text](docs/img1.jpg?raw=true "Title")
+
+![Alt text](https://qqqlab.github.io/rfm69-arduino/img2.jpg "Title")
