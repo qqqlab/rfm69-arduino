@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "name": "myboard",
+      "maintainer": "qqqlab",
+      "websiteURL": "https://github.com/qqqlab/rfm69-arduino",
+      "platforms": [
+        {
+          "name": "qqqlabBoard",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://qqqlab.github.io/rfm69-arduino/qqqlabBoard-1.0.0.zip",
+          "archiveFileName": "qqqlabBoard-1.0.0.zip",
+          "checksum": "SHA-256:9F8FC7165E72BDE5842472E942FF14C10EBFB358A69A9D3A5429F2BBF20FDFEA",
+          "boards": [
+            {"name": "qqqlabBoard"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
