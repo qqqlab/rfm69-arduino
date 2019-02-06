@@ -1,7 +1,7 @@
 # rfm69-arduino
 Arduino with RFM69 ISM radio running at 1.8V
 
-## Install in the Arduino IDE
+### Installation in the Arduino IDE
 
  - Start Arduino IDE 1.8.4 or later
  - Menu File->Preferences
